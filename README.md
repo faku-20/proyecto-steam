@@ -22,7 +22,7 @@ Celular o computadora
 → drenaje
 ```
 
-![Prototipo conceptual](documentacion/imagenes/prototipo_riego_curado_utu.png)
+![Prototipo conceptual](documentacion/imagenes/prototipo_riego_curado_utu.webp)
 
 > Este proyecto se realiza durante el curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** de **UTU**. La electrónica de control trabaja con baja tensión. La parte de 220 V debe realizarse o supervisarse por una persona con conocimientos eléctricos.
 

@@ -21,23 +21,23 @@ Las funcionalidades del prototipo se ajustarán y actualizarán dependiendo del 
 ## 3. Materiales
 | Imagen       | Descripción |
 | ------------ | ----------- |
-| ![microbit](imagenes/01microbit.png) | micro:bit v1 |
-| ![baston](imagenes/02baston.png) | Bastón |
-| ![motor vibracion](imagenes/03motor_vibracion.jpg) | Motor vibración |
-| ![speaker](imagenes/04speaker.jpg) | Speaker |
-| ![sensor proximidad](imagenes/05sensor_proximidad.jpg) | Sensor de proximidad |
-| ![cables](imagenes/06cables.jpg) | Cables |
-| ![tarjeta expansora](imagenes/07tarjeta_expansora.jpg) | Tarjeta expansora para micro:bit |
-| ![protoboard](imagenes/08protoboard.jpg) | Protoboard |
-| ![transistor](imagenes/09transistor.jpg) | Transistor NPN |
-| ![resistencia](imagenes/10resistencia.jpg) | Resistencia 220 ohmios |
+| ![microbit](imagenes/01microbit.webp) | micro:bit v1 |
+| ![baston](imagenes/02baston.webp) | Bastón |
+| ![motor vibracion](imagenes/03motor_vibracion.webp) | Motor vibración |
+| ![speaker](imagenes/04speaker.webp) | Speaker |
+| ![sensor proximidad](imagenes/05sensor_proximidad.webp) | Sensor de proximidad |
+| ![cables](imagenes/06cables.webp) | Cables |
+| ![tarjeta expansora](imagenes/07tarjeta_expansora.webp) | Tarjeta expansora para micro:bit |
+| ![protoboard](imagenes/08protoboard.webp) | Protoboard |
+| ![transistor](imagenes/09transistor.webp) | Transistor NPN |
+| ![resistencia](imagenes/10resistencia.webp) | Resistencia 220 ohmios |
 
 ## 4. Diseño Mecánico
 Para realizar el ensamblaje del bastón interactivo se utilizó un ducto como prototipo del bastón, para reducir los costos y faciltar la realización de cortes para poder colocar y ensamblar los diferentes componentes electrónicos. Primero se colocó la tarjeta expansora de micro:bit la cual fue adherida al bastón y se realizo un pequeño corte para que los cables estuvieran por dentro del mismo. De igual manera se colocó el sensor de proximidad en el extremo inferior del bastón tal como se puede apreciar en las imagénes adjuntas.
 
-![baston frente](imagenes/11diseno_mecanico.jpg)
+![baston frente](imagenes/11diseno_mecanico.webp)
 
-![baston reverso](imagenes/12diseno_mecanico.jpg)
+![baston reverso](imagenes/12diseno_mecanico.webp)
 
 Por ultimo se añadió el speaker y el motor de vibración en el extremo superior del bastón para que estos estuvieran cerca de la persona y pueda percibir las alertas. El speaker se colocó por fuera con las conexiones por dentro para protegerlas y el motor vibrador se coloca adherido al bastón por dentro quedando oculto (este último no quedó capturado en las imagenes).
 
@@ -45,7 +45,7 @@ Por ultimo se añadió el speaker y el motor de vibración en el extremo superio
 Se presenta el diagrama de conexión del bastón sensorial y se adjunta link al proyecto en la plataforma tinkercad utilizada para la creación del mismo:
 https://www.tinkercad.com/things/iSKwzF3iiut-conexion-prototipo-baston
 
-![diseño electrónico](imagenes/13tinkercad.png)
+![diseño electrónico](imagenes/13tinkercad.webp)
 
 ### Conexión de los pines del sensor de proximidad con el micro:bit
 - VCC (Rojo)

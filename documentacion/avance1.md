@@ -91,7 +91,7 @@ Depósito ─────────► caños de riego
                     Drenaje
 ```
 
-![Prototipo conceptual](imagenes/prototipo_riego_curado_utu.png)
+![Prototipo conceptual](imagenes/prototipo_riego_curado_utu.webp)
 
 ### Problemas encontrados y soluciones propuestas
 
@@ -804,37 +804,37 @@ Las imágenes y videos correspondientes a estas semanas se encuentran en la carp
 
 ### Semana 2 - componentes y primeras conexiones
 
-- [Montaje inicial en protoboard](<imagenes/sem 2 a 4/6633f6d0-f881-4dc1-ac26-54a1c4a36d7e.jpeg>)
+- [Montaje inicial en protoboard](<imagenes/sem 2 a 4/6633f6d0-f881-4dc1-ac26-54a1c4a36d7e.webp>)
 - [Primera vista del montaje](<imagenes/sem 2 a 4/IMG_20260814_184953_005.webp>)
-- [LCD encendida en el montaje](<imagenes/sem 2 a 4/IMG_20260814_192135.jpg>)
-- [Prueba de pantalla LCD](<imagenes/sem 2 a 4/IMG_20260814_192142.jpg>)
-- [Conexiones de la pantalla LCD](<imagenes/sem 2 a 4/IMG_20260814_202030.jpg>)
-- [Detalle de conexiones del LCD](<imagenes/sem 2 a 4/IMG_20260814_202034.jpg>)
-- [Montaje con ESP32 y LCD](<imagenes/sem 2 a 4/IMG_20260814_202047.jpg>)
-- [Detalle de la ESP32 en protoboard](<imagenes/sem 2 a 4/IMG_20260814_202052.jpg>)
+- [LCD encendida en el montaje](<imagenes/sem 2 a 4/IMG_20260814_192135.webp>)
+- [Prueba de pantalla LCD](<imagenes/sem 2 a 4/IMG_20260814_192142.webp>)
+- [Conexiones de la pantalla LCD](<imagenes/sem 2 a 4/IMG_20260814_202030.webp>)
+- [Detalle de conexiones del LCD](<imagenes/sem 2 a 4/IMG_20260814_202034.webp>)
+- [Montaje con ESP32 y LCD](<imagenes/sem 2 a 4/IMG_20260814_202047.webp>)
+- [Detalle de la ESP32 en protoboard](<imagenes/sem 2 a 4/IMG_20260814_202052.webp>)
 - [Video de prueba inicial](<imagenes/sem 2 a 4/VID_20260814_235908.mp4>)
 
 ### Semana 3 - pruebas de comunicación y pantalla
 
-- [Montaje nocturno de prueba](<imagenes/sem 2 a 4/IMG_20260814_235833.jpg>)
-- [LCD durante prueba de texto](<imagenes/sem 2 a 4/IMG_20260815_001214.jpg>)
-- [LCD encendida durante la carga](<imagenes/sem 2 a 4/IMG_20260815_001349.jpg>)
-- [Mensaje de prueba en la LCD](<imagenes/sem 2 a 4/IMG_20260815_001426.jpg>)
-- [Montaje de prueba funcionando](<imagenes/sem 2 a 4/IMG_20260815_001809.jpg>)
+- [Montaje nocturno de prueba](<imagenes/sem 2 a 4/IMG_20260814_235833.webp>)
+- [LCD durante prueba de texto](<imagenes/sem 2 a 4/IMG_20260815_001214.webp>)
+- [LCD encendida durante la carga](<imagenes/sem 2 a 4/IMG_20260815_001349.webp>)
+- [Mensaje de prueba en la LCD](<imagenes/sem 2 a 4/IMG_20260815_001426.webp>)
+- [Montaje de prueba funcionando](<imagenes/sem 2 a 4/IMG_20260815_001809.webp>)
 - [Video de prueba de la ESP32 y LCD](<imagenes/sem 2 a 4/VID_20260815_001320.mp4>)
 
 ### Semana 4 - sistema electrónico integrado e interfaz web
 
-- [Mensaje inicial en LCD con ESP32](<imagenes/sem 2 a 4/IMG_20260823_183251.jpg>)
-- [Lectura de humedad en pantalla LCD](<imagenes/sem 2 a 4/IMG_20260823_184211.jpg>)
-- [Celular conectado a la red del sistema](<imagenes/sem 2 a 4/Screenshot_20260823_183729_com_android_settings_Settings$WifiSettingsActivity.jpg>)
-- [Interfaz web local desde el celular](<imagenes/sem 2 a 4/Screenshot_20260823_183724_com_android_chrome_ChromeTabbedActivity.jpg>)
-- [Control web del sistema de riego](<imagenes/sem 2 a 4/Screenshot_20260823_183732_com_android_chrome_ChromeTabbedActivity.jpg>)
-- [Página web del proyecto Curado de ladrillos](<imagenes/sem 2 a 4/Screenshot_20260823_184200_com_android_chrome_ChromeTabbedActivity.jpg>)
+- [Mensaje inicial en LCD con ESP32](<imagenes/sem 2 a 4/IMG_20260823_183251.webp>)
+- [Lectura de humedad en pantalla LCD](<imagenes/sem 2 a 4/IMG_20260823_184211.webp>)
+- [Celular conectado a la red del sistema](<imagenes/sem 2 a 4/Screenshot_20260823_183729_com_android_settings_Settings$WifiSettingsActivity.webp>)
+- [Interfaz web local desde el celular](<imagenes/sem 2 a 4/Screenshot_20260823_183724_com_android_chrome_ChromeTabbedActivity.webp>)
+- [Control web del sistema de riego](<imagenes/sem 2 a 4/Screenshot_20260823_183732_com_android_chrome_ChromeTabbedActivity.webp>)
+- [Página web del proyecto Curado de ladrillos](<imagenes/sem 2 a 4/Screenshot_20260823_184200_com_android_chrome_ChromeTabbedActivity.webp>)
 - [Video de funcionamiento del sistema](<imagenes/sem 2 a 4/VID_20260823_193420.mp4>)
-- [Montaje completo con relé, LEDs y LCD](<imagenes/sem 2 a 4/IMG_20260826_194032.jpg>)
-- [Sistema electrónico completo sobre protoboard](<imagenes/sem 2 a 4/IMG_20260826_194048.jpg>)
-- [Pantalla LCD mostrando humedad](<imagenes/sem 2 a 4/IMG_20260826_201409.jpg>)
-- [Prueba con LED indicador](<imagenes/sem 2 a 4/IMG_20260826_201733.jpg>)
-- [Montaje completo con indicadores](<imagenes/sem 2 a 4/IMG_20260826_201736.jpg>)
-- [Vista general del montaje final de la semana](<imagenes/sem 2 a 4/IMG_20260826_201740.jpg>)
+- [Montaje completo con relé, LEDs y LCD](<imagenes/sem 2 a 4/IMG_20260826_194032.webp>)
+- [Sistema electrónico completo sobre protoboard](<imagenes/sem 2 a 4/IMG_20260826_194048.webp>)
+- [Pantalla LCD mostrando humedad](<imagenes/sem 2 a 4/IMG_20260826_201409.webp>)
+- [Prueba con LED indicador](<imagenes/sem 2 a 4/IMG_20260826_201733.webp>)
+- [Montaje completo con indicadores](<imagenes/sem 2 a 4/IMG_20260826_201736.webp>)
+- [Vista general del montaje final de la semana](<imagenes/sem 2 a 4/IMG_20260826_201740.webp>)
